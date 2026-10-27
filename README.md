@@ -4,16 +4,16 @@ Detail-oriented and analytical Senior Software Quality Assuarnce Engineer with h
 
 # CORE COMPETENCIES & TECHNICAL SKILLS
 
-Enterprise HRMS (Payroll Processing, Attendance Management, Employee Self-Service, Leave Management, Compliance/Tax Logic).
+**Enterprise HRMS** (Payroll Processing, Attendance Management, Employee Self-Service, Leave Management, Compliance/Tax Logic).
 
-Testing Methodologies: Software Testing, Functional Testing, Smoke Testing, UAT (User Acceptance Testing), Agile / Scrum, Waterfall, V-Model, Iterative & Incremental Models, ISTQB Foundation Level Knowledge.
+**Testing Methodologies**: Software Testing, Functional Testing, Smoke Testing, UAT (User Acceptance Testing), Agile / Scrum, Waterfall, V-Model, Iterative & Incremental Models, ISTQB Foundation Level Knowledge.
 
-Test Automation & Programming: C sharp (Basic), Selenium, Robot Framework, ,Microsoft visual Studio.
+**Test Automation & Programming**: C sharp (Basic), Selenium, Robot Framework, ,Microsoft visual Studio.
 
-API & Database Testing: REST API Testing (Postman), SQL (Joins, Aggregations, Scalar Functions, DML/DDL queries), SSMS, Xampp, Kibana.
+**API & Database Testing**: REST API Testing (Postman), SQL (Joins, Aggregations, Scalar Functions, DML/DDL queries), SSMS, Xampp, Kibana.
 
-Tools & Version Control: Jira, Trello, Confluence, Zephyr, qTest, Git, GitHub, TeamCity, Slack, Chrome DevTools, Google Drive.
+**Tools & Version Control:** Jira, Trello, Confluence, Zephyr, qTest, Git, GitHub, TeamCity, Slack, Chrome DevTools, Google Drive.
 
-Web Fundamentals: HTML, CSS, Markdown.
+Web Fundamentals: HTML, CSS, Notion 
 
-Soft Skills: Precision, Effective Communication, Assertiveness, Patience, Empathy, Analytical Thinking.
+**Soft Skills**: Precision, Effective Communication, Assertiveness, Patience, Empathy, Analytical Thinking.
