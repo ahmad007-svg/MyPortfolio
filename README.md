@@ -1,7 +1,8 @@
 # MyPortfolio
+
 Detail-oriented and analytical Senior Software Quality Assuarnce Engineer with hands-on experience in manual and automated testing within a fast-paced SaaS environment.Passionate about digital accessibility and creating inclusive software experiences. Combines strong technical foundations—including C sharp, Selenium, Robot Framework, and API testing—with solid domain knowledge in Agile/Scrum workflows and ISTQB principles. Adept at cross-functional communication, defect tracking, and bridging the gap between technical teams and end-user needs.
 
-CORE COMPETENCIES & TECHNICAL SKILLS
+# CORE COMPETENCIES & TECHNICAL SKILLS
 
 Enterprise HRMS (Payroll Processing, Attendance Management, Employee Self-Service, Leave Management, Compliance/Tax Logic).
 
